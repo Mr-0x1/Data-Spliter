@@ -1,7 +1,7 @@
 
 # Email Filter with Telegram Integration
 
-This Python script filters unique emails from a given input file based on a specified domain or ISP and sends the filtered results to a Telegram bot. It also allows sending multiple files from the current directory to Telegram.
+This Python script filters unique emails from a given input file based on a specified domain or ISP .
 
 ## Features
 
